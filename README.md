@@ -9,7 +9,7 @@ Telegram бот показывает текущую погоду по назва
 pip install -r requirements.txt.
 
 2. Вставь ключи
-BOT_TOKEN = '8156447633:AAFFqEFxNo3oIG9zMRYZsVBoq1n3VImHeNc'
+BOT_TOKEN = 'твой_токен'
 WEATHER_TOKEN = 'твой_ключ'
 
 3. Запусти:
