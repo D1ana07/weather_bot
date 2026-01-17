@@ -1,1 +1,16 @@
-# weather_bot
+# 🌤️ Weather Telegram Bot
+
+Telegram бот показывает текущую погоду по названию города с помощью OpenWeatherMap API.
+
+## 🚀 Быстрый запуск
+
+1. Установи зависимости:
+`bash
+pip install -r requirements.txt.
+
+2. Вставь ключи
+BOT_TOKEN = '8156447633:AAFFqEFxNo3oIG9zMRYZsVBoq1n3VImHeNc'
+WEATHER_TOKEN = 'твой_ключ'
+
+3. Запусти:
+python weather_bot.py
