@@ -13,4 +13,4 @@ BOT_TOKEN = 'твой_токен'
 WEATHER_TOKEN = 'твой_ключ'
 
 3. Запусти:
-python weather_bot.py
+python ww_bb.py
